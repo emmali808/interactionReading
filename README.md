@@ -1,6 +1,6 @@
-# interactionReading\
+# interactionReading
 --------
-##一、文件介绍\
+##一、文件介绍
 1.legal_doc————网站系统前端，基于vue搭建。\
 2.legaldocument————系统后端，Springboot+MyBatis+MySQL+Redis+Lucene。\
 3.QAPlugin————问答注解子系统插件前端。\
@@ -9,8 +9,8 @@
 6.QAIndex————QA数据索引文件。\
 7.legaldocument.sql————数据库sql文件。包含系统数据结构和相关数据。\
 —--------
-##二、部署介绍\
-###2.1 开发工具\
+##二、部署介绍
+###2.1 开发工具
 IDEA，前后端都在IDEA上开发。安装最新版即可。需要配置jdk。原使用jdk1.8。\
 可参考：https://blog.csdn.net/weixin_42045759/article/details/101988140\
 ###2.2 前端
