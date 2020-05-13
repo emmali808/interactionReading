@@ -1,0 +1,34 @@
+{
+  "manifest_version": 2,
+  "name": "ReadPeer",
+  "short_name": "ReadPeer",
+  "description": "medical document annotation plug-in",
+  "version": "1.0.0",
+  "permissions": ["tabs","activeTab"],
+  "background": {
+    "scripts": ["js/background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["js/jquery.min.js"],
+      "run_at":"document_start"
+    },
+    {
+      "matches": ["*://*/*"],
+      "js": ["js/bootstrap.min.js"],
+      "css": ["css/bootstrap.css"],
+      "run_at":"document_start"
+    },
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["js/content.js"],
+      "css": ["css/content.css"],
+      "run_at":"document_start"
+    }
+  ],
+  "browser_action": {
+    "default_icon": "images/icon.png",
+    "default_popup": "popup.html"
+  }
+}

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd44340b-3b98-4e55-84e1-b3adadd6ce05" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZWrcmneSnl3aZJVtJmKRukhXDk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\legalPlugin\js" />
+      <recent name="F:\legalPlugin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\legalPlugin\css" />
+      <recent name="F:\legalPlugin\js" />
+      <recent name="F:\legalPlugin" />
+      <recent name="F:\legalPlugin\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd44340b-3b98-4e55-84e1-b3adadd6ce05" name="Default Changelist" comment="" />
+      <created>1547974169639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547974169639</updated>
+      <workItem from="1547974172703" duration="12971000" />
+      <workItem from="1548295363987" duration="5759000" />
+      <workItem from="1550286058016" duration="592000" />
+      <workItem from="1550294940602" duration="3951000" />
+      <workItem from="1551151593730" duration="1480000" />
+      <workItem from="1584965777029" duration="663000" />
+      <workItem from="1585044872106" duration="1391000" />
+      <workItem from="1585048345340" duration="5091000" />
+      <workItem from="1585210248611" duration="13453000" />
+      <workItem from="1585307993511" duration="1915000" />
+      <workItem from="1585380120074" duration="1268000" />
+      <workItem from="1585476733795" duration="3424000" />
+      <workItem from="1585533321260" duration="67164000" />
+      <workItem from="1585796472065" duration="12447000" />
+      <workItem from="1585827038382" duration="1412000" />
+      <workItem from="1586160801541" duration="11942000" />
+      <workItem from="1586484561533" duration="586000" />
+      <workItem from="1588258290775" duration="1748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
