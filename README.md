@@ -19,5 +19,5 @@ IDEA，前后端都在IDEA上开发。安装最新版即可。需要配置jdk。
 MySQL安装教程可参考：https://blog.csdn.net/rucia/article/details/81288235?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase   \
 2.lucene版本为6.0.0。将Lucene索引文件夹，wikiIndex、QAIndex放到存储位置。修改后端索引相关代码中索引文件夹对应路径。\
 3.redis：首先在服务器安装Redis（系统安装版本为5.0.5），通过项目部署即可访问Redis。项目中首先现在application.properties中配置redis参数。
-然后通过util包中的RedisConfig，RedisPooloFactory进行进一步配置。使用的时候时候直接Autowired引入RedisConfig，具体使用方法见类JedisAdapter和RedisKeyUtil
+然后通过util包中的RedisConfig，RedisPooloFactory进行进一步配置。使用的时候时候直接Autowired引入RedisConfig，具体使用方法见类JedisAdapter和RedisKeyUtil。\
 4.获取存放文献文件夹路径。WebConfig类里里设置获取路径。当存放文献的文件夹路径。即后端项目路径有修改时，修改该处地方。
